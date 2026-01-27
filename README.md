@@ -50,4 +50,4 @@ HTML5, CSS, JavaScript, C#, SQL, .NET MAUI, XAML, Lógica de Programação, Scru
 
 1. Clone este repositório:  
 ```bash
-git clone https://github.com/Bianca-Paiva/MiniCurriculo.git
+[git clone https://github.com/Bianca-Paiva/MiniCurriculo.git](https://github.com/Bianca-Paiva/ProjetoCurriculo.git)
