@@ -1,53 +1,38 @@
-# 🌟 Mini Currículo — Bianca Silveria Paiva
+# 👩‍💻 Mini Currículo & Portfólio — Bianca Silveria Paiva
 
-Uma página HTML simples sobre mim, mostrando **formação, experiências e habilidades**.  
-Projeto criado como exercício acadêmico e para praticar HTML5 sem CSS.
+Projeto desenvolvido com o objetivo de apresentar meu **mini currículo acadêmico** e **portfólio de projetos**, reunindo informações sobre minha formação, habilidades e experiências práticas em desenvolvimento de sistemas.
 
----
-
-## 👩‍💻 Sobre mim
-
-- Estudante do **Ensino Técnico em Desenvolvimento de Sistemas** no [Senac Lapa Tito](https://www.sp.senac.br/senac-lapa-tito).  
-- Experiência como **Scrum Master e Desenvolvedora Full Stack** em projetos acadêmicos.  
-- Aprofundando estudos em **.NET MAUI, XAML, HTML, CSS e JavaScript**, com vivência em QA.  
-- Busco minha primeira oportunidade como **estagiária em TI**, focando em aprendizado contínuo e colaboração em equipe.
+Este projeto consiste em uma **página web estática**, simples e objetiva, pensada para uma visualização rápida por recrutadores, professores e colegas da área de tecnologia.
 
 ---
 
-## 🏫 Formação Acadêmica
+## 📌 Sobre o projeto
 
-- Ensino Técnico em Desenvolvimento de Sistemas  
-- Atendimento ao Cliente / Call Center / Telemarketing  
-- Ensino Médio em andamento
+A página apresenta:
+- Informações pessoais e de contato
+- Projetos desenvolvidos em **C# / .NET MAUI** e **Web (HTML, CSS e JavaScript)**
+- Formação acadêmica
+- Experiência acadêmica
+- Habilidades técnicas e certificações
 
----
-
-## 💼 Experiência Acadêmica
-
-- **Scrum Master e Desenvolvedora Full Stack** em projetos acadêmicos integradores.
-
----
-
-## 🛠 Habilidades e Certificações
-
-### Certificações
-- Crie um site simples usando HTML, CSS e JavaScript — Fundação Bradesco  
-- Introdução à Administração — Fundação Bradesco
-
-### Habilidades
-HTML5, CSS, JavaScript, C#, SQL, .NET MAUI, XAML, Lógica de Programação, Scrum, Boas Práticas de Programação, Trabalho em Equipe, Comunicação e Organização.
+O foco do projeto é **clareza**, **organização** e **honestidade técnica**, refletindo meu nível atual de conhecimento e minha evolução contínua na área de TI.
 
 ---
 
-## 🔗 Links
+## 🛠 Tecnologias utilizadas neste projeto
 
-- [LinkedIn](https://www.linkedin.com/in/bianca-silveria-paiva)  
-- [GitHub](https://github.com/Bianca-Paiva)  
+- HTML5  
+- CSS3  
 
+*(Projeto propositalmente simples, sem uso de frameworks, com foco em estrutura, semântica e boas práticas.)*
 ---
 
-## 🚀 Como visualizar
+## ▶️ Como visualizar o projeto
 
-1. Clone este repositório:  
-```bash
-[git clone https://github.com/Bianca-Paiva/MiniCurriculo.git](https://github.com/Bianca-Paiva/ProjetoCurriculo.git)
+Este projeto é uma página web estática.
+
+Para visualizar:
+1. Faça o clone ou download do repositório
+2. Abra o arquivo `index.html` diretamente no navegador  
+
+Ou, se preferir, utilize uma extensão como **Live Server** no VS Code para visualizar as alterações em tempo real.
